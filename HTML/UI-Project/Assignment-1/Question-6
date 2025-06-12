@@ -1,1 +1,19 @@
+6. Question: Build an email subscription form with an input field for email and a "Subscribe" 
+button that opens the user's default email client when clicked.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Email-Subscription</title>
+</head>
+<body>
+  <div class="subscription-form">
+    <h2>Subscribe to our Newsletter</h2>
+    <input type="email" id="email" placeholder="Enter your email" required />
+    <button>Subscribe</button>
+  </div>
+
+</body>
+</html>
 
