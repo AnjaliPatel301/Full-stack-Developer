@@ -1,1 +1,21 @@
+3. Question: Create a form with a text input field for the user's name and a password input 
+field. 
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>form </title>
+</head>
+<body>
+
+  Username:
+  <input type="text" name="username" id="" required>
+  <br><br>
+Password:
+    <input type="password" name="username" id="" required>
+  
+
+</body>
+</html>
 
