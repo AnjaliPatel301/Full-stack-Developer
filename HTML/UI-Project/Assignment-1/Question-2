@@ -1,1 +1,12 @@
+2. Question: Implement an image element with an alt attribute to ensure accessibility.
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Example</title>
+</head>
+<body>
+    <img src="beautiful.jpg" alt="image missing🫠">
+</body>
+</html>
 
