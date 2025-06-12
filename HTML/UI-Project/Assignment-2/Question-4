@@ -1,1 +1,59 @@
+4. Question: Describe the difference between radio buttons and checkboxes and provide an 
+example scenario for using each. 
+
+
+Checkboxes allow users to select multiple options from a set of choices.
+ Radio buttons restrict users to choosing only one option from a predefined list
+. Use checkboxes when multiple selections are permitted, and radio buttons when only a single choice is allowed.
+
+
+ ********************************************************************CHECKBOX*************************************************************************************
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Checkboxes</title>
+</head>
+<body>
+
+  Please choose a language?
+  <br><br>
+  <input type="checkbox" name="C" id="">C
+  <br><br>
+   <input type="checkbox" name="C++" id="">C++
+  <br><br>
+   <input type="checkbox" name="HTML" id="">HTML
+  <br><br>
+   <input type="checkbox" name="JAVA" id="">JAVA
+  <br><br>
+  
+</body>
+</html>
+
+
+
+ ********************************************************************RADIO*************************************************************************************
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Radio buttons </title>
+</head>
+<body>
+
+  Please choose a language?
+  <br><br>
+  <input type="radio" name="C" id="">C
+  <br><br>
+   <input type="radio" name="C++" id="">C++
+  <br><br>
+   <input type="radio" name="HTML" id="">HTML
+  <br><br>
+   <input type="radio" name="JAVA" id="">JAVA
+  <br><br>
+  
+</body>
+</html>
 
