@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card ul</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="img-box">
+           <p class="img-text">Promoted</p>
+          <div class="p">
+            <p class="p-text"><span class="rate">50% OFF up to 100 </span><span class="p-time">30min</span></p> 
+            </div>
+        </div>
+        <h3>Center Point Restaurant</h3>
+        <p class="location">North Indian, Chinese</p>
 
+        <div class="footer">
+        <div class="div-footer">
+            <div class="a"><b>MAX SAFETY</b></div>
+            <P class="delevary">DELIVERY</P>
+            </div>
+            <p class="footer-last-text">
+                Follows all Max safety measures to ensure your food is safe
+            </p>
+        </div>
+
+    </div>
+    
+</body>
+</html>
