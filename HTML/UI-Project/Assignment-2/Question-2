@@ -1,1 +1,45 @@
+2. Questions: Design a simple website with a navigation menu that links to an "About," 
+"Portfolio," and "Contact" page. 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Website</title>
+</head>
+<body>
+
+  
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#portfolio">Portfolio</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+
+    <section id="about">
+        <h2>About</h2>
+        <p>This is the About section.</p>
+    </section>
+
+ 
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>This is the Portfolio section.</p>
+    </section>
+
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>This is the Contact section.</p>
+    </section>
+
+</body>
+</html>
+
+
+#########output
+
 
