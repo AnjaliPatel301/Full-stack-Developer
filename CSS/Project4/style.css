@@ -1,1 +1,23 @@
-
+     
+        th{
+            background-color: black;
+            color:#fff;
+        }
+         table {
+            font-family: sans-serif;
+            font-size: 10px;
+            border: none;
+            border-collapse: collapse;
+            width: 50%;
+         }
+         td{
+            padding: 10px;
+            text-align: center;
+         }
+        th{
+            padding: 10px;
+        }
+        .tr{
+                background-color: rgb(239 239 239)
+        }
+   
