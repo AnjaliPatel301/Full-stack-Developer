@@ -1,1 +1,18 @@
+1. Question: Develop a page that has a link to download a sample PDF document. The link 
+should open the PDF in a new tab.
+
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <title>PDF document</title>
+</head>
+<body>
+
+    <h2>PDF document</h2>
+
+    <a href="sample.pdf" target="_blank">click-me</a>
+
+</body>
+</html>
 
