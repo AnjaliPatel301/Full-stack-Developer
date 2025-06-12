@@ -1,1 +1,33 @@
-
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.constiner{
+    width: 500px;
+    padding: 150px 80px;
+    color:#000;
+    background-color: rgb(95, 237, 147);
+    border-radius: 10px;
+}
+.title{
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+#moto{
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+button{
+    border: none;
+    background-color: #fff;
+    border-radius: 50px;
+    font-size: 25px;
+    padding:15px 50px ;
+    font-weight: 600;
+}
