@@ -1,1 +1,23 @@
+3. Question: What is the difference between the ‘id' and ‘class' attributes of HTML elements? 
+
+
+HTML id Attribute
+
+*Uniquely identifies one element.
+*Often used for unique page elements.
+*Only one element can have a specific ID.
+*Accessed in CSS with #example selector.
+*Written as id="example".
+*Primarily used for styling or JavaScript
+
+
+
+HTML class Attribute
+
+*Can be applied to multiple elements.
+*Also used for styling or JavaScript.
+*Multiple elements can share the same class.
+*Written as class="example".
+*Accessed in CSS with .example selector.
+*Commonly used for styling groups of elements.
 
