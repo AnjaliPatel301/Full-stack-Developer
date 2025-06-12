@@ -1,1 +1,13 @@
+1. Question: Create a simple HTML document that displays the text "Hello, World!" in the 
+browser. 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
 
