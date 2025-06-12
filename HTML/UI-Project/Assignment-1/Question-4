@@ -1,1 +1,14 @@
+4. Question: Create a section with a heading (<h2>) and a paragraph (<p>) describing a 
+favourite book. 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>favourite book</title>
+</head>
+<body>
+   <h2>favourite book</h2>
+   <p>favourite book</p>
+</body>
+</html>
 
