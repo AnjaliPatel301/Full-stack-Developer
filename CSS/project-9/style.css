@@ -1,1 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+.conatainer{
+    padding: 10px 100px;
+    background-color: #000;
+
+}
+.portfolio-box{
+    width: 100%;
+    height: 720px;
+    background-color: #000000;
+    align-items: center;
+}
+.navbar{
+    padding: 10px 5px;
+    display: flex;
+    background-color: #000;
+    height: 50px;
+    color:#fff;
+    justify-content: space-between;
+
+}
+.navbar ul {
+    display: flex;
+    justify-content: space-around;
+    /* flex-direction: row; */
+}
+ul li{
+    margin-right: 30px;
+    list-style: none;
+
+}
+ul li a{
+    text-decoration: none;
+    font-size: 30px;
+}
+.por-butt{
+    border: none;
+    padding:4px 20px;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(0, 255, 170);
+    float: right;
+    font-weight: bold;
+}
+.hero{
+    display: flex;
+    width: 100%;
+    padding: 50px 0px;
+}
+.img img{
+    /* width: 500px; */
+    height: 600px;
+}
+.about{
+    flex-direction: column;
+    margin-left: 150px;
+}
+.name{
+    color:rgb(2, 255, 171);
+    font-size: 30px;
+    }
+h2{
+    margin-top: 10px;
+    font-size: 60px;
+    color: #fff;
+    
+}
+h2 span{
+    color:rgb(0, 255, 170);
+    letter-spacing: 2px;
+}
+.about-btt{
+    color: rgb(0, 255, 170);
+    padding: 5px 20px;
+    border: 1px solid rgb(0, 255, 170);
+    margin-top: 40px;
+    background-color: #000;
+      font-weight: bold;
+}
+.about-text{
+  color:#c1bcbc;
+  margin-top: 55px;
+  font-weight: 200;
+}
